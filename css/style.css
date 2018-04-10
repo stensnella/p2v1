@@ -1,0 +1,32 @@
+
+
+*{ box-sizing: border-box; }
+
+body, html {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+}
+
+
+h3 {
+  padding-top: 10%;
+  font-size: 1.1em;
+}
+
+
+#map {
+    width: 60%;
+   height: 60%;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
